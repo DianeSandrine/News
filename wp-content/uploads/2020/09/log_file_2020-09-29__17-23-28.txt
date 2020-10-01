@@ -1,0 +1,108 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://localhost/news
+Data file = C:\laragon\www\news/wp-content/uploads/2020/09/newsium-1.xml
+Widget file = C:\laragon\www\news/wp-content/uploads/2020/09/newsium-1.wie
+Customizer file = C:\laragon\www\news/wp-content/uploads/2020/09/newsium-1.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "beard-2286446_1920" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "beard-2286446_1920" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "beard-2286446_1920" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+AFTN Social Contacts - No Title - Widget already exists
+AFTN Trending Posts Carousel - No Title - Widget already exists
+AFTN Tabbed Posts - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+
+Front-page Content Section : 
+
+AFTN Posts Slider - No Title - Widget already exists
+AFTN Single Column  - No Title - Widget already exists
+AFTN Posts Grid - No Title - Widget already exists
+AFTN Double Categories Posts - No Title - Widget already exists
+
+Front-page Primary Sidebar : 
+
+AFTSC Author Info - No Title - Widget already exists
+AFTN Tabbed Posts - No Title - Widget already exists
+AFTN Posts Slider - No Title - Widget already exists
+AFTN Trending Posts Carousel - No Title - Widget already exists
+
+Front-page Secondary Sidebar : 
+
+AFTN Trending Posts Carousel - No Title - Widget already exists
+AFTN Social Contacts - No Title - Widget already exists
+
+Footer First Section : 
+
+Recent Posts - No Title - Widget already exists
+
+Footer Second Section : 
+
+Search - Search - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer Third Section : 
+
+Tag Cloud - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
